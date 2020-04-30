@@ -3,7 +3,6 @@
     <p align="center">
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/paulohenriquepm/rocketshoes">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulohenriquepm/rocketshoes">
-      <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulohenriquepm/rocketshoes">
     </p>
 </h1>
 

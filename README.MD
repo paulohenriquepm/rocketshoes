@@ -6,11 +6,6 @@
     </p>
 </h1>
 
-<p align="center">
-  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## :page_with_curl: Sobre
   Aplicação desenvolvida durante o bootcamp GoStack 10.0 realizado pela [Rocketseat](https://rocketseat.com.br/).
   Trata-se de um e-commerce simples com as funcionalidades de listagem de produtos e carrinho de compras, baseado na NetShoes.
